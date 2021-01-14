@@ -1,0 +1,52 @@
+h1 {
+    font-family: 'Ewert', cursive;
+    font-size: 50px;
+}
+
+body {
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4auX__ciipKXe5Nc23vhTYYa4deqZnnA8HA&usqp=CAU);
+}
+
+svg {
+    width: 900px;
+    border: 1px white;
+    font-size: 20px;
+    font-family:'VT323', monospace;
+}
+img{
+  position: relative;
+  top:-250px;
+  }
+my-tag{
+  position: relative;
+  top:200px;
+  }
+ul {
+    font-family: 'Fruktur', cursive;
+    font-size: 25px;
+}
+ur-tag{
+     position: relative;
+  top:40px;
+  }
+we-tag{
+     position: relative;
+  top:100px;
+    left:-180px;
+  }
+wii-tag{
+     position: relative;
+  top:100px;
+    left:160px;
+  }
+wee-tag{
+     position: relative;
+  top:80px;
+  }
+p{
+     position: relative;
+  top:-80px;
+  }
+   
+    
+    
